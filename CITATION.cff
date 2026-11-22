@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se você usar este repositório, cite-o como abaixo."
+title: "Reprodução e extensão da análise da base APDados sobre a LGPD: base de dados tratada e código-fonte"
+type: software
+authors:
+  - family-names: "Souza Neto"
+    given-names: "Gerson Alves de"
+  - family-names: "Alves"
+    given-names: "João Paulo dos Santos"
+version: "1.0.0"
+date-released: "2026-11-21"        
+repository-code: "https://github.com/[USUARIO]/[REPOSITORIO]" 
+license: MIT
