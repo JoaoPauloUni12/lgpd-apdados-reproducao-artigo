@@ -31,14 +31,13 @@ O trabalho reproduz a análise de Ilg et al. (2025) sobre processos e sanções 
 │   ├── processed/base_tratada.csv           # 196 registros, campos padronizados
 │   └── DICIONARIO_DE_DADOS.md
 ├── notebooks/Analise_APDados_LGPD.ipynb     # todas as análises (executar tudo)
-├── scripts/verificar_base.py                # confere se uma planilha é a base do artigo
 ├── docs/
 │   ├── LIMITACOES.md
 │   ├── mapeamento_segmentos.csv             # rótulo original -> categoria (116 -> 32)
-│   └── registros_complementares.csv         # os 29 registros de outra fonte e seus alertas
-└── results/
-    ├── figuras/                             # fig1 a fig7 e analise10_1 a analise10_4
-    └── tabelas_apdados.xlsx                 # tabelas de apoio a cada figura
+│   │── tabelas_apdados.xlsx            
+    └── registros_complementares.csv         # os 29 registros de outra fonte e seus alertas
+                       
+
 ```
 
 ## Como reproduzir
@@ -48,7 +47,6 @@ O trabalho reproduz a análise de Ilg et al. (2025) sobre processos e sanções 
 **Localmente:**
 ```bash
 pip install -r requirements.txt
-python scripts/verificar_base.py data/raw/base_apdados_original.xlsx   # deve imprimir "base compatível com o artigo"
 cd notebooks && jupyter notebook Analise_APDados_LGPD.ipynb            # Executar tudo
 ```
 As figuras e tabelas são gravadas em `results/saida/`. A ordem entre segmentos com o mesmo número de registros (por exemplo, Proteção ao Crédito e Instituição Financeira, com 14 cada) pode variar entre execuções; o empate na 10ª posição (Hospital/Saúde e Serviços de Internet, 11 cada) é resolvido em ordem alfabética.
