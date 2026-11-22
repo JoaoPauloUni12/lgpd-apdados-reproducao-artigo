@@ -1,0 +1,117 @@
+﻿Segmento_pad,Segmento,registros
+Alimentício,Alimentício,3
+Alimentício,Alimentação / pizzaria e imagens de câmeras de segurança,1
+Alimentício,Comércio Alimentício,1
+Automobilístico,Automobilístico,1
+Banco,Banco,14
+Banco,Banco Digital,1
+Banco,Bancário,1
+Cobrança,Cobrança Extrajudicial,1
+Cobrança,Cobranças,1
+Comércio Varejista,Comércio Varejista,4
+Comércio Varejista,Loja de Varejo,2
+Comércio Varejista,Comércio Distribuidora,1
+Comércio Varejista,Comércio de Bebidas e Transporte,1
+Comércio Varejista,Comércio de Produtos descartáveis,1
+Comércio Varejista,Comércio de Roupas,1
+Comércio Varejista,Loja de Calçados,1
+Comércio Varejista,Loja de Construção,1
+Comércio Varejista,Setor Atacadista,1
+Condomínio,Condomínio,2
+Educação,Universidade,2
+Educação,Educacional,1
+Educação,Ensino,1
+Educação,Instituição de Ensino,1
+Empresa de Comunicação e Estado,Empresa de Comunicação e Estado,1
+Energia / Saneamento,Empresa de Energia Elétrica,2
+Energia / Saneamento,Energia,1
+Energia / Saneamento,Energia Elétrica,1
+Energia / Saneamento,Energia elétrica / concessionária ou fornecedora de energia,1
+Energia / Saneamento,Saneamento,1
+Gerenciamento de risco,Gerenciamento de risco,1
+Hospital / Saúde,Hospital,5
+Hospital / Saúde,Farmacêutico,1
+Hospital / Saúde,Farmácia,1
+Hospital / Saúde,Saúde,1
+Hospital / Saúde,Saúde / organização social gestora de unidades públicas,1
+Hospital / Saúde,Saúde / prestadora de serviços,1
+Hospital / Saúde,Varejo farmacêutico / farmácia,1
+Imobiliário / Construção,Cartório de Registro de Imóveis,1
+Imobiliário / Construção,Construtora e Incorporadora,1
+Imobiliário / Construção,Construção e incorporação de imóveis,1
+Imobiliário / Construção,Consultoria imobiliária,1
+Imobiliário / Construção,Imobiliário,1
+Imprensa,Imprensa,2
+Instituição Financeira,Instituição Financeira,6
+Instituição Financeira,Agência Concessionária de Crédito,1
+Instituição Financeira,Cooperativa,1
+Instituição Financeira,Cooperativa de Crédito,1
+Instituição Financeira,Fintech de meios de pagamento,1
+Instituição Financeira,Operadora de Cartão de Crédito,1
+Instituição Financeira,Plataforma de negociação de dívidas / crédito,1
+Instituição Financeira,Serviços bancários / instituição financeira,1
+Instituição Financeira,Soluções de Crédito,1
+Metrô / Transporte,Metrô,4
+Metrô / Transporte,Transporte,2
+Metrô / Transporte,Empresa de Trens Urbanos,1
+Metrô / Transporte,Logística,1
+Metrô / Transporte,Plataforma Digital de Transporte Urbano,1
+Metrô / Transporte,Prestadora de serviços eletrônicos na área do transporte,1
+Metrô / Transporte,Serviço de Entrega,1
+Metrô / Transporte,Transporte Terrestre,1
+Negócios,Negócios,1
+Não identificado,Empresa ré não identificada no resumo,1
+Não identificado,Proteção de dados / setor não identificado no resumo,1
+Não identificado,Setor não identificado no resumo fornecido,1
+Pessoa Física,Pessoa Física,2
+Plataforma de Benefícios,Plataforma de Benefícios,1
+Poder Público,Município,2
+Poder Público,Poder Público,2
+Poder Público,ADIN,1
+Poder Público,Congresso Nacional,1
+Poder Público,Constitucional,1
+Poder Público,Estado,1
+Poder Público,Instituto Público,1
+Poder Público,Prefeitura,1
+Poder Público,Secretaria pública,1
+Poder Público,Setor público / benefício previdenciário (INSS),1
+Proteção ao Crédito,Banco de dados / informação de crédito,8
+Proteção ao Crédito,Proteção ao Crédito,2
+Proteção ao Crédito,Gestoras de bancos de dados / informação de crédito,1
+Proteção ao Crédito,Proteção ao crédito,1
+Proteção ao Crédito,Proteção ao crédito / banco de dados,1
+Proteção ao Crédito,Órgão de Proteção ao Crédito,1
+Rede Social,Rede Social,9
+Rede Social,Aplicativo de mensagens / tecnologia e redes sociais,1
+Rede Social,Plataforma de Rede Social,1
+Rede Social,Redes Sociais,1
+Seguros,Seguro,2
+Seguros,Seguradora,1
+Seguros,Seguradora de Vida,1
+Serviços combinados de escritório e apoio administrativo,Serviços combinados de escritório e apoio administrativo,1
+Serviços de Internet,Serviços de Internet,3
+Serviços de Internet,Aplicativo de mensagens / plataforma digital,1
+Serviços de Internet,Aplicativos,1
+Serviços de Internet,Mercado de software,1
+Serviços de Internet,Plataforma de busca / base de jurisprudência,1
+Serviços de Internet,Plataforma de busca / indexação de processos judiciais,1
+Serviços de Internet,Plataforma digital / perfis falsos e golpes,1
+Serviços de Internet,Plataforma digital / tratamento ou comercialização de dados,1
+Serviços de Internet,Provedores de Aplicações,1
+Serviços de Internet,Provedores de aplicações de internet,1
+Serviços de Turismo,Serviços de Turismo,1
+Sindicato,Sindicato,12
+Sistemas de Segurança,Sistemas de Segurança,1
+Telefonia,Telefonia,8
+Telefonia,Operadora de Telefone,2
+Telefonia,Empresa de Telecomunicação,1
+Telefonia,PSB em prol às empresas de Telecomunicações,1
+Telefonia,Telecomunicações / análise de crédito,1
+Telefonia,Telecomunicações / operadora de telefonia,1
+Telefonia,Telefonia Móvel,1
+Telemarketing,Telemarketing,2
+Terceirização de Mão de Obra,Terceirização de Mão de Obra,1
+Vendas On-Line,Vendas On-Line,6
+Vendas On-Line,Loja Online,1
+Vendas On-Line,Plataforma de Venda pela Internet,1
+Vendas On-Line,Vendas Online,1
